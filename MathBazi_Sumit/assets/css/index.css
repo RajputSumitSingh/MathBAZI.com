@@ -1,0 +1,74 @@
+.head{
+  
+  /* font-size: 80px; */
+  /* text-align: center; */
+  background: #0bc5fd;
+
+
+  width: 80%;
+  margin:  2% auto;
+  /* margin-bottom: 50px; */
+  
+  padding: 20px; 
+  
+  
+  border: 2px solid hsla(0, 0%, 0%, 0.959);     
+  border-radius: 5px;     
+  
+  -webkit-box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+  -moz-box-shadow: 5px 5px 2px 0px 0px rgba(0,0,0,0.75);
+  box-shadow: 5px 5px 2px 0px rgba(0,0,0,0.75);
+  
+  font-size: 2rem; 
+  text-align: center;
+  color : #016;
+  font-weight: 800;
+  
+  
+  text-shadow : 2px 2px 5px #fff, 4px 4px 8px rgba(0,0,0,0.15);
+  
+  clear: both;
+  }
+
+.databox , .questionbox ,.answerbox{
+    width: 100%;
+    margin: 0 auto;
+    background: #EEFFEE; 
+    padding: 20px; 
+    padding-bottom: 0;
+    text-align: left;
+    margin-bottom: 30px;
+    font-size : 15px; 
+    
+    color : #016;
+    color : #000;
+    
+    /* text-shadow : 0 px 2 px 2 px rgba ( 255, 255, 255, 0.4 ); */
+    
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    
+    }
+
+    .databox table , 
+    .databox pre , .questionbox pre ,.answerbox pre {
+  font-size: 1rem; 
+  white-space: pre-wrap;
+  
+  
+  }
+  .a-tag{
+    width: 50%;
+    margin-bottom: 8px;
+    font-size: 0.1rem;
+  }
+  a{
+    text-decoration: none;
+  }
+
+ #faq .accordion-list .collapsed{
+    font-weight: 700;
+    font-size:x-large;
+    font-family :'Times New Roman', Times, serif
+  }

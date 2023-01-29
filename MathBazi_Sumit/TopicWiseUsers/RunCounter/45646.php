@@ -1,0 +1,1 @@
+<?php exit; {"recharge_date":"2022-01-28","Recharge_amount":"200","Validity_Start_Date":"2022-01-28","Validity_End_Date":"2022-01-28","Alloted_Runs":"22","Runs_Used":"2","Courses":["AptitudeMaths"]} ?>

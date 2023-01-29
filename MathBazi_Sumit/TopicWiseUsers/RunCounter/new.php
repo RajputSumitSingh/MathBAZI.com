@@ -1,0 +1,1 @@
+<?php exit; {"recharge_date":"2021-08-31","Recharge_amount":"500","Validity_Start_Date":"2021-09-22","Validity_End_Date":"2021-09-15","Alloted_Runs":"5","Runs_Used":"0","Courses":["algebra","arithmatic","mansuration","AptitudeMaths"]} ?>
