@@ -1,2 +1,2 @@
 # MathBAZI.com
-The Project is used for teaching the student mathematics And remoce the fear of Formuals and compitition.
+The Project is used for teaching the student mathematics And remove the fear of Formuals and compitition.
